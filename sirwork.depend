@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1509279390 source:c:\users\hp\desktop\my codes\sirwork\main.cpp
+	<iostream>
+	<math.h>
+	<cstdio>
+	<cstdlib>
+	<array>
+
