@@ -1,6 +1,4 @@
-// A C++ program to check if a given point lies inside a given polygon
-// Refer http://www.geeksforgeeks.org/check-if-two-given-line-segments-intersect/
-// for explanation of functions onSegment(), orientation() and doIntersect()
+
 #include <iostream>
 
 
